@@ -21,4 +21,3 @@ gsearch
 #AEX
 hurry.filesize
 #translator
-py_translator
